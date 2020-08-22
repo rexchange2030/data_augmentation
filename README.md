@@ -6,6 +6,6 @@
 
 3. The dataset has been created by rotating, zooming, cropping, and blurring the dataset that has been available to us.
 
-4. In this, Colab we are using Data Augmentation with the infamous Cats/Dogs Classification.
+4. In this, Colab we are using Data Augmentation with the infamous Cats/Dogs Classification Dataset.
 
 # Feel Free To Modify and the colab for you further exploration.
